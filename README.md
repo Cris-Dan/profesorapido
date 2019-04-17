@@ -11,7 +11,7 @@ dentro de la carpeta del proyecto ejecutar:
 
 -npm install && npm run dev
 
-#comando para iniciar servidor
+# comando para iniciar servidor
 dentro de la carpeta del proyecto ejecutar:
 
 php artisan serve --port=8081
